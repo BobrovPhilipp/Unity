@@ -1,0 +1,2 @@
+D:\Unity 5\myProject\HomeWok1.Bobrov_Philipp\HomeWok1.Bobrov_Philipp\obj\Debug\HomeWok1.Bobrov_Philipp.csprojAssemblyReference.cache
+D:\Unity 5\myProject\HomeWok1.Bobrov_Philipp\HomeWok1.Bobrov_Philipp\obj\Debug\HomeWok1.Bobrov_Philipp.csproj.CoreCompileInputs.cache
